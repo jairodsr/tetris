@@ -12,3 +12,28 @@ div {
   border: 1px solid black;
   float: left;
 }
+
+.box{
+  display: block;
+  margin: 15px 0px;
+  padding: 10px 20px;
+  background-color: white;
+}
+
+/** COLORES **/
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.pink{
+  background-color: pink;
+}
+.orange{
+  background-color: orange;
+}
+
